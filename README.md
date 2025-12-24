@@ -9,7 +9,7 @@
 AI Development · Web Development · Open Source  
 
 🌱 **Currently Learning**  
-Django & modern web technologies  
+SQL,Firebase & modern web technologies  
 
 💞 **Looking to Collaborate On**  
 - Exciting web development projects  
@@ -47,7 +47,7 @@ Const
 
 
 - ## Workspace Spec
-- ![LeetCode Stats](https://leetcard.jacoblin.cool/kabilan-prog?theme=forest&font=Mukta&ext=contest)
+- ![LeetCode Stats](https://leetcard.jacoblin.cool/kabilanprog?theme=forest&font=Mukta&ext=contest)
 
 
 
@@ -55,6 +55,6 @@ Const
 
 
 <!---
-Theivaraj-k/Theivaraj-k is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+kabilan/kabilan is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
